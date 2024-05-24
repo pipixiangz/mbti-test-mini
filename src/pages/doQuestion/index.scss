@@ -1,20 +1,17 @@
-.indexPage {
-  background: #A2C7D7;
-
+.doQuestionPage {
   .title {
-    color: #fff;
-    padding-top: 48px;
-    margin-bottom: 24px;
-    text-align: center;
-  }
-
-  .subTitle {
-    color: #fff;
     margin-bottom: 48px;
   }
 
-  .enterBtn {
-    width: 60vw;
-    min-width: 180px;
+  .options-wrapper {
+    margin-bottom: 48px;
+  }
+
+  .option {
+    margin-bottom: 16px;
+  }
+
+  .controlBtn {
+    margin: 24px 48px;
   }
 }

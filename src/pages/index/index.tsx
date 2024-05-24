@@ -1,8 +1,9 @@
+import Taro from "@tarojs/taro";
 // import { Component, PropsWithChildren } from "react";
 import {View, Image} from "@tarojs/components";
 import {AtButton} from "taro-ui";
-import headerBg from "../../assets/headerBg.jpg";
 
+import headerBg from "../../assets/headerBg.jpg";
 // import "taro-ui/dist/style/components/button.scss"; // 按需引入
 import "./index.scss";
 import GlobalFooter from "../../components/GlobalFooter";
